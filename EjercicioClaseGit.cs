@@ -7,6 +7,7 @@ namespace Ejercicio_Git
         static void Main(string[] args)
         {
             Console.WriteLine(" Nuevo Ejercicio Git ");
+            Console.WriteLine(" Git ");
             Console.ReadLine();
         }
     }
