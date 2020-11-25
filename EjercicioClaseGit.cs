@@ -8,7 +8,8 @@ namespace Ejercicio_Git
         {
 
             Console.WriteLine(" Comentario del nuevo comentario del usuario 1 ");
-            
+            Console.WriteLine(" Comentario del nuevo comentario del usuario 2 ");
+
 
             Console.WriteLine(" Nuevo Ejercicio Git ");
             Console.WriteLine(" Git ");
