@@ -6,7 +6,8 @@ namespace Ejercicio_Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Nuevo Ejercicio Git ");
+            Console.WriteLine(" Comentario del nuevo comentario del usuario 1 ");
+            
             Console.ReadLine();
         }
     }
